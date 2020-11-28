@@ -1,12 +1,18 @@
 {
-  "name": "Discount_Cal",
-  "displayName": "Discount_Cal",
   "expo": {
-    "name": "Discount_Cal",
-    "slug": "Discount_Cal",
+    "name": "first-app",
+    "slug": "first-app",
     "version": "1.0.0",
+    "orientation": "portrait",
+    
+    "updates": {
+      "fallbackToCacheTimeout": 0
+    },
     "assetBundlePatterns": [
       "**/*"
-    ]
+    ],
+    "ios": {
+      "supportsTablet": true
+    }
   }
 }
