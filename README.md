@@ -2,8 +2,8 @@
 
 #### Shop Discount App is develope using *React native*, which help the customers/buyers to calculate the discount and save the record.
 
-<img alt="GIF" src="img/3dAssets/aftercal.jpeg" width="340" height="300" />
-<img src="img/3dAssets/beforecalculation.jpeg" width="340" height="300" />
+<img src="Assets/beforecalculation.jpeg" width="310" height="450" />
+<img src="Assets/aftercal.jpeg" width="310" height="450" />
 <br>
 <br>
 <br><hr>
